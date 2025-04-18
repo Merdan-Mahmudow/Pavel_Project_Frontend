@@ -1,2 +1,1 @@
-KIMCHISTOP# KIMCHISTOP_FRONT
-# Pavel_Project_Frontend
+
